@@ -1,6 +1,6 @@
 # MegaETH Transaction Analyzer
 
-[![Tests]([https://github.com/1597533/MegaETH_v1_prg.sat)]/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/MegaETH-Transaction-Analyzer/actions)
+[!([https://github.com/1597533/MegaETH_v1_prg.sat)]/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/MegaETH-Transaction-Analyzer/actions)
 [![PyPI version](https://badge.fury.io/py/megaeth-transaction-analyzer.svg)](https://badge.fury.io/py/megaeth-transaction-analyzer)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/downloads/)
